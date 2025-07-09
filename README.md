@@ -3,7 +3,7 @@
 <h2>Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Student Record Manager (Tkinter GUI)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Student Record Manager (Tkinter GUI)](https://github.com/sherlin-vincent-ticsay/Student-Record-Manager)
 
 <h2> Connect with me:</h2>
 
